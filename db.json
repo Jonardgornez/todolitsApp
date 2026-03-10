@@ -1,0 +1,216 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Juan Dela Cruz",
+      "course": "BS Computer Science",
+      "year": 3,
+      "email": "juan.delacruz@email.com"
+    },
+    {
+      "id": 2,
+      "name": "Maria Santos",
+      "course": "BS Information Technology",
+      "year": 2,
+      "email": "maria.santos@email.com"
+    },
+    {
+      "id": 3,
+      "name": "Pedro Reyes",
+      "course": "BS Computer Science",
+      "year": 4,
+      "email": "pedro.reyes@email.com"
+    },
+    {
+      "id": 4,
+      "name": "Ana Lopez",
+      "course": "BS Information Technology",
+      "year": 1,
+      "email": "ana.lopez@email.com"
+    },
+    {
+      "id": 5,
+      "name": "Carlos Mendoza",
+      "course": "BS Computer Science",
+      "year": 2,
+      "email": "carlos.mendoza@email.com"
+    },
+    {
+      "id": 6,
+      "name": "Liza Ramos",
+      "course": "BS Information Technology",
+      "year": 3,
+      "email": "liza.ramos@email.com"
+    },
+    {
+      "id": 7,
+      "name": "Mark Bautista",
+      "course": "BS Computer Science",
+      "year": 1,
+      "email": "mark.bautista@email.com"
+    },
+    {
+      "id": 8,
+      "name": "Jenny Cruz",
+      "course": "BS Information Technology",
+      "year": 4,
+      "email": "jenny.cruz@email.com"
+    },
+    {
+      "id": 9,
+      "name": "Paul Navarro",
+      "course": "BS Computer Science",
+      "year": 2,
+      "email": "paul.navarro@email.com"
+    },
+    {
+      "id": 10,
+      "name": "Grace Villanueva",
+      "course": "BS Information Technology",
+      "year": 3,
+      "email": "grace.villanueva@email.com"
+    },
+
+    {
+      "id": 11,
+      "name": "Ronald Garcia",
+      "course": "BS Computer Science",
+      "year": 4,
+      "email": "ronald.garcia@email.com"
+    },
+    {
+      "id": 12,
+      "name": "Patricia Flores",
+      "course": "BS Information Technology",
+      "year": 2,
+      "email": "patricia.flores@email.com"
+    },
+    {
+      "id": 13,
+      "name": "Kevin Torres",
+      "course": "BS Computer Science",
+      "year": 1,
+      "email": "kevin.torres@email.com"
+    },
+    {
+      "id": 14,
+      "name": "Angela Rivera",
+      "course": "BS Information Technology",
+      "year": 4,
+      "email": "angela.rivera@email.com"
+    },
+    {
+      "id": 15,
+      "name": "Dennis Castillo",
+      "course": "BS Computer Science",
+      "year": 3,
+      "email": "dennis.castillo@email.com"
+    },
+    {
+      "id": 16,
+      "name": "Monica Herrera",
+      "course": "BS Information Technology",
+      "year": 1,
+      "email": "monica.herrera@email.com"
+    },
+    {
+      "id": 17,
+      "name": "Adrian Aquino",
+      "course": "BS Computer Science",
+      "year": 2,
+      "email": "adrian.aquino@email.com"
+    },
+    {
+      "id": 18,
+      "name": "Kimberly Salazar",
+      "course": "BS Information Technology",
+      "year": 3,
+      "email": "kimberly.salazar@email.com"
+    },
+    {
+      "id": 19,
+      "name": "Jason Morales",
+      "course": "BS Computer Science",
+      "year": 4,
+      "email": "jason.morales@email.com"
+    },
+    {
+      "id": 20,
+      "name": "Samantha Ortega",
+      "course": "BS Information Technology",
+      "year": 2,
+      "email": "samantha.ortega@email.com"
+    },
+
+    {
+      "id": 21,
+      "name": "Victor Padilla",
+      "course": "BS Computer Science",
+      "year": 1,
+      "email": "victor.padilla@email.com"
+    },
+    {
+      "id": 22,
+      "name": "Nicole Cabrera",
+      "course": "BS Information Technology",
+      "year": 3,
+      "email": "nicole.cabrera@email.com"
+    },
+    {
+      "id": 23,
+      "name": "Patrick Dominguez",
+      "course": "BS Computer Science",
+      "year": 2,
+      "email": "patrick.dominguez@email.com"
+    },
+    {
+      "id": 24,
+      "name": "Elaine Vargas",
+      "course": "BS Information Technology",
+      "year": 4,
+      "email": "elaine.vargas@email.com"
+    },
+    {
+      "id": 25,
+      "name": "Ryan Gutierrez",
+      "course": "BS Computer Science",
+      "year": 3,
+      "email": "ryan.gutierrez@email.com"
+    },
+    {
+      "id": 26,
+      "name": "Jessica Pineda",
+      "course": "BS Information Technology",
+      "year": 1,
+      "email": "jessica.pineda@email.com"
+    },
+    {
+      "id": 27,
+      "name": "Arvin Delgado",
+      "course": "BS Computer Science",
+      "year": 4,
+      "email": "arvin.delgado@email.com"
+    },
+    {
+      "id": 28,
+      "name": "Carla Zamora",
+      "course": "BS Information Technology",
+      "year": 2,
+      "email": "carla.zamora@email.com"
+    },
+    {
+      "id": 29,
+      "name": "Leo Fernandez",
+      "course": "BS Computer Science",
+      "year": 3,
+      "email": "leo.fernandez@email.com"
+    },
+    {
+      "id": 30,
+      "name": "Bea Alvarez",
+      "course": "BS Information Technology",
+      "year": 1,
+      "email": "bea.alvarez@email.com"
+    }
+  ]
+}

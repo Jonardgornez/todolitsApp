@@ -1,0 +1,128 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;900&display=swap");
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.header {
+  text-align: center;
+  text-wrap: wrap;
+  margin-bottom: 1rem;
+}
+button {
+  padding: 1rem 1.5rem;
+  border: none;
+  border-radius: 8px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+.wrapper {
+  display: flex;
+  height: 100vh;
+  justify-content: center;
+  align-items: center;
+}
+.todo_wrapper {
+  border: 1px solid;
+  padding: 1rem;
+  border-radius: 8px;
+  width: min(600px, 100%);
+}
+
+.todo_forms {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+}
+.todo_forms input {
+  padding: 1rem;
+  border: none;
+  border-radius: 8px;
+  outline: 1px solid;
+  flex: 1 1 0;
+  font-size: 1rem;
+}
+.todo_forms .btn_add {
+  background-color: blue;
+  color: white;
+}
+.todo_inputs li {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+  padding: 0.5rem;
+  border-bottom: 1px solid;
+}
+.todo_inputs .btn_wrapper {
+  display: flex;
+  gap: 0.5rem;
+}
+.todo_inputs p {
+  font-size: 1.5rem;
+  text-transform: capitalize;
+}
+.btn_edit {
+  background-color: blue;
+  color: white;
+}
+.btn_delete {
+  background-color: red;
+  color: white;
+}
+
+.modal_wrapper {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+.modal_wrapper .modal {
+  background-color: white;
+  padding: 1rem;
+  border-radius: 8px;
+  width: 400px;
+}
+
+.modal_wrapper .modal .close {
+  display: flex;
+  justify-content: flex-end;
+  margin-bottom: 1rem;
+}
+
+.modal_wrapper .form {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.modal_wrapper input {
+  flex: 1 1 0;
+  font-size: 1rem;
+  padding: 0.5rem;
+  border: none;
+  outline: 1px solid;
+}
+.modal_wrapper .btn_close {
+  background-color: red;
+  color: white;
+}
+.modal_wrapper .btn_update {
+  background-color: blue;
+  color: white;
+}
